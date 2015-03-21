@@ -1,0 +1,27 @@
+{
+  "name": "heat",
+  "version": "1.0.0",
+  "homepage": "http://sweefty.com/heat",
+  "authors": [
+    "Mamod Mehyar <mamod.mehyar@gmail.com>"
+  ],
+  "description": "canvas heat maps",
+  "main": "heat.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "heatmap",
+    "heat",
+    "data",
+    "canvas"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -13,7 +13,7 @@ heat.js is a small javascript library for creating heat maps, it uses canvas to 
 Install using bower
 
 ```sh
-$ bower install heatjs
+$ bower install heat
 ```
 
 ### Demo & usage

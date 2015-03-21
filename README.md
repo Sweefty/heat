@@ -20,6 +20,12 @@ $ bower install heat
 
 Check [heatjs](http://sweefty.com/heat) Website
 
+### TODO
+
+  - add Some examples
+  - add tests
+  - add gruntfile build
+
 License
 ----
 MIT
